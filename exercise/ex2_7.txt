@@ -1,0 +1,11 @@
+"Who goes with F\145rgus?\012"
+"Who goes with Fergus?\n"
+
+3.14e1L
+31.4 (long double)
+
+1024f
+1024 (float)
+
+3.14L
+3.14 (long double)

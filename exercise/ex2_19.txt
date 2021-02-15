@@ -1,0 +1,2 @@
+reference is not an object, while it's an alias to the object which it's initialized to; has to be initialized
+pointer has type, address, value; doesn't have to be initialized

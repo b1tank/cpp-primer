@@ -1,0 +1,7 @@
+ex2_21.cpp:4:13: error: cannot initialize a variable of type 'double *' with an rvalue of type 'int *'
+    double *dp = &i; // invalid due to mismatched types
+            ^    ~~
+ex2_21.cpp:5:10: error: cannot initialize a variable of type 'int *' with an lvalue of type 'int'
+    int *ip = i; // invalid
+         ^    ~
+2 errors generated.

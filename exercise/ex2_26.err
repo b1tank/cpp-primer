@@ -1,0 +1,11 @@
+ex2_26.cpp:4:15: error: default initialization of an object of const type 'const int'
+    const int buf;
+              ^
+                  = 0
+ex2_26.cpp:8:5: error: cannot assign to variable 'sz' with const-qualified type 'const int'
+    ++sz;
+    ^ ~~
+ex2_26.cpp:6:15: note: variable 'sz' declared const here
+    const int sz = cnt;
+    ~~~~~~~~~~^~~~~~~~
+2 errors generated.

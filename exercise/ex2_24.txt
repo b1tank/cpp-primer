@@ -1,0 +1,1 @@
+void pointer can point to any type while long int pointer can only point to long int type

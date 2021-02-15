@@ -1,0 +1,2 @@
+if (p) // check if the pointer p is not nullptr (not nullptr for true)
+if (*p) // check if the value which the pointer p points tois not zero (not zero for true)

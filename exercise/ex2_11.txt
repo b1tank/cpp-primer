@@ -1,0 +1,5 @@
+extern int ix = 1024; // declaration and definition
+
+int iy; // declaration and definition
+
+extern int iz; // declaration without definition

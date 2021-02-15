@@ -1,0 +1,3 @@
+int *ip, i, &r = i; // point to int, int, ref to int
+int i, *ip = 0; // int, nullptr
+int *ip, ip2; // pointer, int
